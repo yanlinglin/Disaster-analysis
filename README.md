@@ -46,7 +46,7 @@ app/: run.py, which contains the Python script to create a web app.
 2. Run the following command in the app's directory to run your web app.
     `python run.py`
 
-# 3. Go to http://0.0.0.0:3001/
+(3. Go to http://0.0.0.0:3001/)
 
 3. In a new command terminal,  type: env|grep WORK to obtain SPACEID.
 
