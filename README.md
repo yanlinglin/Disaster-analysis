@@ -36,7 +36,14 @@ app/: run.py, which contains the Python script to create a web app.
 
 ## How to run the Python scripts
 
-1. Run the following commands in the project's root directory to set up your database and model.
+### Installation
+To clone the repository, run the following command:
+'''
+git clone https://github.com/yanlinglin/Disaster-analysis.git
+'''
+### Run the code
+
+1. Run the following commands in the project's root directory to set up the database and model.
 
     - To run ETL pipeline that cleans data and stores in database
         `python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db`
@@ -51,4 +58,8 @@ app/: run.py, which contains the Python script to create a web app.
 3. In a new command terminal,  type: env|grep WORK to obtain SPACEID.
 
 4. Open a new tab, follow https://SPACEID.udacity-student-workspaces.com/ to access the web app. 
+## Screenshots
+![image](https://user-images.githubusercontent.com/38507020/144914736-c5506b7a-3cf1-4ff8-8f83-b6c5cc523c68.png)
+![image](https://user-images.githubusercontent.com/38507020/144914752-ced751a4-6c74-4635-9580-e1f07ce11536.png)
+![image](https://user-images.githubusercontent.com/38507020/144914887-d27d3971-8569-4e12-b3a3-deb38e0290ab.png)
 
