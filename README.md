@@ -63,3 +63,5 @@ git clone https://github.com/yanlinglin/Disaster-analysis.git
 ![image](https://user-images.githubusercontent.com/38507020/144914752-ced751a4-6c74-4635-9580-e1f07ce11536.png)
 ![image](https://user-images.githubusercontent.com/38507020/144914887-d27d3971-8569-4e12-b3a3-deb38e0290ab.png)
 
+## Acknowledgement
+Thanks to Udacity for providing the starter code; thanks to Figure Eight for providing the dataset. 
